@@ -8,7 +8,7 @@
 
  
   <p align="center">
-  <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Logo de Bootstrap" width="200">
+  <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Logo de Bootstrap" width="48">
 </p>
 ## Proyectos Destacados
 
