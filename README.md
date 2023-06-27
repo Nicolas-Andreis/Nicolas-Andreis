@@ -8,6 +8,8 @@
 
  
   <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/29b8ba92-fea6-415c-86ad-3fc56dd11c50" alt="Logo de Bootstrap" width="48"> BS
+  <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/d1877ce8-a8a6-490e-9da9-1173ef34cea3" alt="Logo de Sass" width="48"> Sass
+
 ## Proyectos Destacados
 
 - Proyecto 1: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
