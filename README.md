@@ -4,9 +4,8 @@
 
 ## Lenguajes y Tecnologías
 
-- HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- HTML5 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
 
 
 ## Proyectos Destacados
