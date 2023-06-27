@@ -7,8 +7,7 @@
   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)HTML5   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)JavaScript
 
  
-  <img src="![image](https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/29b8ba92-fea6-415c-86ad-3fc56dd11c50)
-" alt="Logo de Bootstrap" width="48"> BS
+  <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/29b8ba92-fea6-415c-86ad-3fc56dd11c50" alt="Logo de Bootstrap" width="48"> BS
 ## Proyectos Destacados
 
 - Proyecto 1: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
