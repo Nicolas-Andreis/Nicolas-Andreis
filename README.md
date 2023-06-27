@@ -1,4 +1,4 @@
-# <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/69dd82aa-0555-4644-84da-cd45d895f837" alt="bandera programer" width="48"> Bienvenido/a  <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/69dd82aa-0555-4644-84da-cd45d895f837" alt="bandera programer" width="48">
+# <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/69dd82aa-0555-4644-84da-cd45d895f837" alt="bandera programer" width="48"> Bienvenido/a <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/69dd82aa-0555-4644-84da-cd45d895f837" alt="bandera programer" width="48">
 
 
 ¡Hola! Soy Nicolás y me apasiona el desarrollo web. Aquí encontrarás información sobre los lenguajes que aprendi y algunos proyectos en los que he trabajado. ¡Echa un vistazo!
