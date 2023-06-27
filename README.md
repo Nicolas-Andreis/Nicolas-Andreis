@@ -12,15 +12,13 @@
 
   
 
-## Proyectos Destacados
+## Proyectos
 
 - Proyecto 1: [Habemus Pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizzeria delivery and take away.
-- Proyecto 2: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
-- Proyecto 3: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
 
 ## Contacto
 
-- [Correo electrónico](mailto:tuemail@example.com)
+- [Correo electrónico](jnandreis@outlook.com) 
 - [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
 - [Sitio web](enlace-a-tu-sitio-web-personal)
 
