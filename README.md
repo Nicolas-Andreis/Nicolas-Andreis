@@ -9,6 +9,8 @@
 
 <img src="https://img.shields.io/badge/_CSS-brightgreen?logo=css3&logoColor=white&labelColor=black&color=%23039be5" alt="Logo de CSS"  height="30">
 
+<img src="https://img.shields.io/badge/_JAVASCRIPT-brightgreen?logo=JAVASCRIPT&logoColor=white&labelColor=black&color=%23ffd600" alt="Logo de JS"  height="30">
+
 <img src="https://img.shields.io/badge/_BOOTSTRAP-brightgreen?logo=BOOTSTRAP&logoColor=white&labelColor=black&color=%23673ab7" alt="Logo de bootstrap"  height="30">
 
 <img src="https://img.shields.io/badge/_SASS-brightgreen?logo=sass&logoColor=white&labelColor=black&color=%23e9608f" alt="Logo de SASS"  height="30">
