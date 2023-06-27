@@ -14,7 +14,7 @@
 
 ## Proyectos Destacados
 
-- Proyecto 1: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
+- Proyecto 1: [Habemus Pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizzeria delivery and take away.
 - Proyecto 2: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
 - Proyecto 3: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
 
