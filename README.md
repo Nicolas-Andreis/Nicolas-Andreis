@@ -1,5 +1,30 @@
-### Hi there 👋
+# Bienvenido/a a mi perfil👋 
 
+¡Hola! Soy Nicolás y me apasiona el desarrollo web. Aquí encontrarás información sobre los lenguajes que aprendi y algunos proyectos en los que he trabajado. ¡Echa un vistazo!
+
+## Lenguajes y Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Proyectos Destacados
+
+- Proyecto 1: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
+- Proyecto 2: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
+- Proyecto 3: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
+
+## Contacto
+
+- [Correo electrónico](mailto:tuemail@example.com)
+- [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
+- [Sitio web](enlace-a-tu-sitio-web-personal)
+
+## ¡Hablemos!
+
+Si te interesan mis habilidades y proyectos, no dudes en contactarme. Estoy abierto/a a oportunidades de colaboración y nuevos desafíos.
+
+¡Gracias por visitar mi perfil!
 <!--
 **Nicolas-Andreis/Nicolas-Andreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
