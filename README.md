@@ -4,7 +4,7 @@
 
 ## Lenguajes y Tecnologías
 
-- HTML5 ![HTML5]([https://img.icons8.com/color/48/000000/html-5.png](https://icons8.com/icon/9298/html))
+- HTML5 ![HTML5](https://icons8.com/icon/23028/html-5)
 - CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 - 
