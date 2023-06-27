@@ -2,7 +2,7 @@
 
 
 ¡Hola! Soy Nicolás y me apasiona el desarrollo web. Aquí encontrarás información sobre los lenguajes que aprendi y algunos proyectos en los que he trabajado. ¡Echa un vistazo!
-
+ 
 ## Lenguajes y Tecnologías
 
 <img src="https://img.shields.io/badge/_HTML-brightgreen?logo=html5&logoColor=white&labelColor=black&color=%23fb6800" alt="Logo de HTML"  height="30">
