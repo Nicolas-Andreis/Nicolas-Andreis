@@ -7,9 +7,7 @@
   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)HTML5   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)CSS3  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)JavaScript
 
  
-  <p align="center">
   <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/bootstrap.svg" alt="Logo de Bootstrap" width="48">
-</p>
 ## Proyectos Destacados
 
 - Proyecto 1: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
