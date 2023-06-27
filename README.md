@@ -4,10 +4,11 @@
 
 ## Lenguajes y Tecnologías
 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="Logo de HTML" width="48"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Logo de CSS" width="48"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Logo de Js" width="48"><img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/29b8ba92-fea6-415c-86ad-3fc56dd11c50" alt="Logo de Bootstrap" width="48"><img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/d1877ce8-a8a6-490e-9da9-1173ef34cea3" alt="Logo de Sass" width="48"><img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/d5c023d1-cb0e-4869-bc0e-8cfe18c2f109" alt="Logo de terminal" width="48">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="Logo de HTML" width="48"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="Logo de CSS" width="48"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Logo de Js" width="48"><img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/29b8ba92-fea6-415c-86ad-3fc56dd11c50" alt="Logo de Bootstrap" width="48"><img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/d1877ce8-a8a6-490e-9da9-1173ef34cea3" alt="Logo de Sass" width="48"><img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/ac4a6430-ca95-43d8-aeb5-6f6d588cce9f" alt="Logo de terminal" width="48">
    
    
-   
+  
+
 
   
 
