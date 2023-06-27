@@ -1,4 +1,4 @@
-# <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/25e54ac8-ebca-45d7-ac67-594daf42e441" alt="code" width="60"> Bienvenido/a 
+# <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/25e54ac8-ebca-45d7-ac67-594daf42e441" alt="code" width="60"> Bienvenido/a <img src="https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/25e54ac8-ebca-45d7-ac67-594daf42e441" alt="code" width="60">
 
 
 ¡Hola! Soy Nicolás y me apasiona el desarrollo web. Aquí encontrarás información sobre los lenguajes que aprendi y algunos proyectos en los que he trabajado. ¡Echa un vistazo!
