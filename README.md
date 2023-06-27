@@ -4,10 +4,10 @@
 
 ## Lenguajes y Tecnologías
 
-![HTML5](https://github.com/Nicolas-Andreis/Nicolas-Andreis/assets/111246225/0d9b3d38-b7be-4cf2-90b8-eb7cd951bf21)
-
-
-![HTML5](https://www.flaticon.es/icono-gratis/html-5_3291670?term=html&page=1&position=32&origin=search&related_id=3291670)
+- HTML5 ![HTML5]([https://img.icons8.com/color/48/000000/html-5.png](https://icons8.com/icon/9298/html))
+- CSS3 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- 
 ## Proyectos Destacados
 
 - Proyecto 1: [Nombre del proyecto](enlace-al-proyecto) - Breve descripción del proyecto.
