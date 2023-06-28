@@ -12,7 +12,7 @@
 
 ## Proyectos
 
--  [Habemus Pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizzeria delivery and take away.
+-  [Habemus Pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
 
 ## Contacto
 
