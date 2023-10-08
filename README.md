@@ -20,8 +20,8 @@
 ## Contacto
 
 - [Correo electrónico](jnandreis@outlook.com) 
-- [LinkedIn](enlace-a-tu-perfil-de-LinkedIn)
-- [Sitio web](enlace-a-tu-sitio-web-personal)
+- [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-andreis-b34966281/)
+- [Sitio web](https://nicolas-andreis.github.io/portfolio/)
 
 ## ¡Hablemos!
 
