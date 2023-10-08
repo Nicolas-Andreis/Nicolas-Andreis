@@ -19,7 +19,7 @@
 
 ## Contacto
 
-- [Correo electrónico](jnandreis@outlook.com) 
+- [Correo electrónico](mailto:jnandreis@outlook.com) 
 - [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-andreis-b34966281/)
 - [Sitio web](https://nicolas-andreis.github.io/portfolio/)
 
