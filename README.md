@@ -12,7 +12,10 @@
 
 ## Proyectos
 
--  [Habemus Pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
+-  [portfolio](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
+-  [il pirata](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
+-  [habemus pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
+-  [dar un gesto](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
 
 ## Contacto
 
