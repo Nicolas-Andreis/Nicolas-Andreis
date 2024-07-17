@@ -5,8 +5,17 @@
  
 ## Lenguajes y Tecnologías
 
-<img src="https://img.shields.io/badge/_HTML-brightgreen?logo=html5&logoColor=white&labelColor=black&color=%23fb6800" alt="Logo de HTML"  height="30">  <img src="https://img.shields.io/badge/_CSS-brightgreen?logo=css3&logoColor=white&labelColor=black&color=%23039be5" alt="Logo de CSS"  height="30">  <img src="https://img.shields.io/badge/_JAVASCRIPT-brightgreen?logo=JAVASCRIPT&logoColor=white&labelColor=black&color=%23ffd600" alt="Logo de JS"  height="30">  <img src="https://img.shields.io/badge/_BOOTSTRAP-brightgreen?logo=BOOTSTRAP&logoColor=white&labelColor=black&color=%23673ab7" alt="Logo de bootstrap"  height="30">  <img src="https://img.shields.io/badge/_SASS-brightgreen?logo=sass&logoColor=white&labelColor=black&color=%23e9608f" alt="Logo de SASS"  height="30">  <img src="https://img.shields.io/badge/_TERMINAL-brightgreen?logo=WINDOWS%20TERMINAL&logoColor=white&labelColor=black&color=%23787878" alt="Logo de TERMINAL"  height="30">
+<img src="https://img.shields.io/badge/HTML-8A2BE2" alt="HTML"  height="30">
+<img src="https://img.shields.io/badge/CSS-8A2BE2" alt="CSS"  height="30">
+<img src="https://img.shields.io/badge/JavaScript-8A2BE2" alt="JS"  height="30">
+<img src="https://img.shields.io/badge/TypeScript-8A2BE2" alt="TypeScript"  height="30">
 <img src="https://img.shields.io/badge/C++-8A2BE2" alt="C++"  height="30">
+<img src="https://img.shields.io/badge/Bootstrap-8A2BE2" alt="Bootstrap"  height="30">
+<img src="https://img.shields.io/badge/SASS-8A2BE2" alt="sass"  height="30">
+<img src="https://img.shields.io/badge/React.js-8A2BE2" alt="react"  height="30">
+<img src="https://img.shields.io/badge/Dialogflow-8A2BE2" alt="Dialogflow"  height="30">
+<img src="https://img.shields.io/badge/Terminal" alt="Terminal"  height="30">
+
 
 
 
