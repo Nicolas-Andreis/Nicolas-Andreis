@@ -5,21 +5,8 @@
  
 ## Lenguajes y Tecnologías
 
-<img src="https://img.shields.io/badge/HTML-8A2BE2" alt="HTML"  height="30">
-<img src="https://img.shields.io/badge/CSS-8A2BE2" alt="CSS"  height="30">
-<img src="https://img.shields.io/badge/JavaScript-8A2BE2" alt="JS"  height="30">
-<img src="https://img.shields.io/badge/TypeScript-8A2BE2" alt="TypeScript"  height="30">
-<img src="https://img.shields.io/badge/C++-8A2BE2" alt="C++"  height="30">
-<img src="https://img.shields.io/badge/Bootstrap-8A2BE2" alt="Bootstrap"  height="30">
-<img src="https://img.shields.io/badge/SASS-8A2BE2" alt="sass"  height="30">
-<img src="https://img.shields.io/badge/React.js-8A2BE2" alt="react"  height="30">
-<img src="https://img.shields.io/badge/Dialogflow-8A2BE2" alt="Dialogflow"  height="30">
-<img src="https://img.shields.io/badge/Terminal" alt="Terminal"  height="30">
+<img src="https://img.shields.io/badge/HTML-8A2BE2" alt="HTML"  height="30"><img src="https://img.shields.io/badge/CSS-8A2BE2" alt="CSS"  height="30"><img src="https://img.shields.io/badge/JavaScript-8A2BE2" alt="JS"  height="30"><img src="https://img.shields.io/badge/TypeScript-8A2BE2" alt="TypeScript"  height="30"><img src="https://img.shields.io/badge/C++-8A2BE2" alt="C++"  height="30"><img src="https://img.shields.io/badge/Bootstrap-8A2BE2" alt="Bootstrap"  height="30"><img src="https://img.shields.io/badge/SASS-8A2BE2" alt="sass"  height="30"><img src="https://img.shields.io/badge/React.js-8A2BE2" alt="react"  height="30"><img src="https://img.shields.io/badge/Dialogflow-8A2BE2" alt="Dialogflow"  height="30"><img src="https://img.shields.io/badge/Terminal-8A2BE2" alt="Terminal"  height="30">
 
-
-
-
-   
 
 ## Proyectos
 
