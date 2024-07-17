@@ -15,7 +15,8 @@
 -  [portfolio](https://nicolas-andreis.github.io/portfolio/) - Personal website.
 -  [il pirata](https://nicolas-andreis.github.io/Il-pirata/) - Pizza delivery website.
 -  [habemus pizza](https://nicolas-andreis.github.io/habemus_pizza/) - Pizza delivery website.
--  [dar un gesto](https://nicolas-andreis.github.io/Dar-un-gesto/) - Donation website.
+-  [Jardin Online](https://nicolas-andreis.github.io/Jardin-Online/) - E-commerce website.
+-  [Taller Barcelo](https://taller-barcel-dksw-git-master-nicolas-andreis-projects.vercel.app/) - Taller Automotor website.
 
 ## Contacto
 
